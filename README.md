@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Aiman Khan
 
-<!--
-**aimankhan2608/aimankhan2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Development Learner  
+🎓 Commerce Student | Aspiring CA  
+🌱 Currently learning HTML, CSS & JavaScript  
+🚀 Building skills and improving daily  
 
-Here are some ideas to get you started:
+== Skills
+- HTML
+- CSS
+- Basic JavaScript
+- Git & GitHub (soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+== Goals
+- Become a skilled web developer
+- Build a strong portfolio
+- Start freelancing / Upwork projects
